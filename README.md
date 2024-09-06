@@ -16,7 +16,7 @@
 
 <div align="center">
   
-| [이정은](https://github.com/LeeJE20) | [김유진](https://github.com/yujin113) | [김민지](https://github.com/Lightieey)| [김경륜](https://github.com/KimRiun) | [이지수](https://github.com/damda0904) | [조용은](https://github.com/gdakate) | 
+| [LeeJE20](https://github.com/LeeJE20) | [yujin113](https://github.com/yujin113) | [Lightieey](https://github.com/Lightieey)| [KimRiun](https://github.com/KimRiun) | [damda0904](https://github.com/damda0904) | [gdakate](https://github.com/gdakate) | 
 | :-----------------------------------: | :-----------------------------------: | :----------------------------------:  | :----------------------------------: | :----------------------------------: | :------------------------------------: |
 |<img src="https://avatars.githubusercontent.com/u/42895142?v=4" width="300">|<img src="https://avatars.githubusercontent.com/u/73515587?v=4" width="300">|<img src="https://avatars.githubusercontent.com/u/79203421?v=4" width="300">|<img src="https://avatars.githubusercontent.com/u/56223389?v=4" width="300">|<img src="https://avatars.githubusercontent.com/u/67117391?v=4" width="300">|<img src="https://avatars.githubusercontent.com/u/77925036?v=4" width="300">|
 |            BE LEAD             |                  BE                   |                  BE                  |                  BE                  |                  BE                  |                   BE                   |
